@@ -18,7 +18,7 @@ I've been passionate about technology since I was a child, and today I work in f
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="center" alt="gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gabi-HTML" heigth="40" width="70"
-    src="C:\Users\gabri\Downloads\sn-logo-color.avif"/>
+    src="https://cdn.worldvectorlogo.com/logos/servicenow-2.svg"/>
 </div>
 
   
