@@ -17,10 +17,17 @@ I've been passionate about technology since I was a child, and today I work in f
    align="center" alt="gabi-Python" height="30" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="center" alt="gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="gabi-HTML" heigth="40" width="70"
-    src="https://cdn.worldvectorlogo.com/logos/servicenow-2.svg"/>
 </div>
 
+
+  ## 🏆 ServiceNow Certifications
+
+<div align="center">
+  <img src="https://images.credly.com/size/680x680/images/cf2fd311-58c5-404e-b2aa-234b2ef7f994/Credential_Badge_-_Certified_System_Administrator.png" width="120" alt="">
+  <img src="URL_DA_IMAGEM_CONFIG_CMDB" width="150" alt="Configure CMDB Badge">
+  <img src="URL_DA_IMAGEM_PLATFORM_IMP" width="150" alt="Platform Implementation Badge">
+  <img src="URL_DA_IMAGEM_GET_STARTED" width="150" alt="Get Started Badge">
+</div>
   
   ##
  
