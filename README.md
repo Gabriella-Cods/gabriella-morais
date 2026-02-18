@@ -8,6 +8,7 @@ I've been passionate about technology since I was a child, and today I work in f
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
   <img align="center" alt="gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gabi-CSS" height="30" width="40"
@@ -15,9 +16,11 @@ I've been passionate about technology since I was a child, and today I work in f
  <img 
    align="center" alt="gabi-Python" height="30" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-  
   <img align="center" alt="gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="gabi-HTML" heigth="40" width="70"
+    src="https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/company-library/media/logo/sn-logo-color.png"/>
 </div>
+
   
   ##
  
