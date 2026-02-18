@@ -1,3 +1,11 @@
+🙋‍♀️ Gabriella Vasconcelos
+
+** Web Developer and Servicenow Developer **
+
+Hello guys, i'm Gabriella im nineteen years old and i live in São Paulo.
+I graduated in 2023 at Fundação Bradesco, and today i'm Analys and Development Systems Student at Impacta Tecnologia.
+I've been passionate about technology since I was a child, and today I work in front-end development and with the ServiceNow platform, in which i can use these two tecnologys together.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
