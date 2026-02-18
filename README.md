@@ -18,18 +18,17 @@ I've been passionate about technology since I was a child, and today I work in f
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="center" alt="gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+<br>
 
   ## 🏆 ServiceNow Certifications
 
 <div align="center">
   <img src="https://images.credly.com/size/680x680/images/cf2fd311-58c5-404e-b2aa-234b2ef7f994/Credential_Badge_-_Certified_System_Administrator.png" width="100" alt="System Administrator">
   <img src="https://images.credly.com/images/1c3da05b-4351-4564-937b-5ae3add49a97/blob" width="100" alt=">
-  <img src="URL_DA_IMAGEM_PLATFORM_IMP" width="150" alt="Platform Implementation Badge">
-  <img src="URL_DA_IMAGEM_GET_STARTED" width="150" alt="Get Started Badge">
+  <img src="https://images.credly.com/size/680x680/images/2fc06019-3725-4d5a-b327-2d1b06da2caa/blob" width="100" alt=Ai Agents">
 </div>
   
-  ##
+  ## Additional Informations about Me 😊
  
 <div>  
   <a href = "mailto:gabriellademorais5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
