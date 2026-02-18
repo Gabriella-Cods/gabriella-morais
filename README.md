@@ -25,3 +25,18 @@ I've been passionate about technology since I was a child, and today I work in f
   <a href = "gabriellademorais5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriella-de-morais-336906307" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
 </div>
+
+<div>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=GabriellaCods&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+</div>
