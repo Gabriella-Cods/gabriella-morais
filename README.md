@@ -1,6 +1,7 @@
-<h2>🙋‍♀️ Gabriella Vasconcelos</h2>
-
-**Web Developer and Servicenow Developer**
+# 👩‍💻 Gabriella Vasconcelos
+<h2 align="left">
+  <sub><strong>Web Developer & ServiceNow Specialist</strong></sub>
+</h2>
 
 Hello guys, i'm Gabriella im nineteen years old and i live in São Paulo.
 I graduated in 2023 at Fundação Bradesco, and today i'm Analys and Development Systems Student at Impacta Tecnologia.
@@ -32,7 +33,7 @@ I've been passionate about technology since I was a child, and today I work in f
   <br>
 
   
-  ## Additional Informations about Me 😊
+### 📫 Vamos nos conectar?
  
 <div>  
   <a href = "mailto:gabriellademorais5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
