@@ -36,7 +36,6 @@ I've been passionate about technology since I was a child, and today I work in f
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabriellaCods&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://github-readme-stats.vercel.app/api?username=GabriellaCods&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
 </div>
