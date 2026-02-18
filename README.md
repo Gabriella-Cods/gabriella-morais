@@ -30,6 +30,8 @@ I've been passionate about technology since I was a child, and today I work in f
   <img src="https://images.credly.com/size/680x680/images/2fc06019-3725-4d5a-b327-2d1b06da2caa/blob" width="100" alt="Ai Agents"  align="center">
 </div>
   <br>
+
+  
   ## Additional Informations about Me 😊
  
 <div>  
