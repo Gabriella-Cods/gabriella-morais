@@ -23,8 +23,8 @@ I've been passionate about technology since I was a child, and today I work in f
   ## 🏆 ServiceNow Certifications
 
 <div align="center">
-  <img src="https://images.credly.com/size/680x680/images/cf2fd311-58c5-404e-b2aa-234b2ef7f994/Credential_Badge_-_Certified_System_Administrator.png" width="120" alt="">
-  <img src="URL_DA_IMAGEM_CONFIG_CMDB" width="150" alt="Configure CMDB Badge">
+  <img src="https://images.credly.com/size/680x680/images/cf2fd311-58c5-404e-b2aa-234b2ef7f994/Credential_Badge_-_Certified_System_Administrator.png" width="100" alt="System Administrator">
+  <img src="https://images.credly.com/images/1c3da05b-4351-4564-937b-5ae3add49a97/blob" width="100" alt=">
   <img src="URL_DA_IMAGEM_PLATFORM_IMP" width="150" alt="Platform Implementation Badge">
   <img src="URL_DA_IMAGEM_GET_STARTED" width="150" alt="Get Started Badge">
 </div>
