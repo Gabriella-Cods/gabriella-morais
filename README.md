@@ -1,6 +1,6 @@
 🙋‍♀️ Gabriella Vasconcelos
 
-** Web Developer and Servicenow Developer **
+**Web Developer and Servicenow Developer**
 
 Hello guys, i'm Gabriella im nineteen years old and i live in São Paulo.
 I graduated in 2023 at Fundação Bradesco, and today i'm Analys and Development Systems Student at Impacta Tecnologia.
